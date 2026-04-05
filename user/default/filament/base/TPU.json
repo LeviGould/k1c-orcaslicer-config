@@ -1,0 +1,32 @@
+{
+    "default_filament_colour": [
+        "#C6FFC6"
+    ],
+    "fan_max_speed": [
+        "80"
+    ],
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "3.4"
+    ],
+    "filament_settings_id": [
+        "TPU"
+    ],
+    "filament_vendor": [
+        "Levi"
+    ],
+    "from": "Levi",
+    "inherits": "Creality Generic TPU",
+    "name": "TPU",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "compatible_printers": [],
+    "compatible_printers_condition": "",
+    "version": "2.3.2.60"
+}
