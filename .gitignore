@@ -1,15 +1,3 @@
-# Ignore cache and temporary files
-cache/
-tmp/
-log/
-lock/
-snapshots/
-*.bak
-*.tmp
-*~
-
-# Ignore downloads, network caches, and system defaults
-network/
-downloads/
-plugins/
-system/
+/*
+!.gitignore
+!/user/
