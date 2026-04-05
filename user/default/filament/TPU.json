@@ -1,0 +1,15 @@
+{
+    "compatible_printers": [
+        "Creality K1C 0.4 nozzle"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "TPU"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU @System",
+    "name": "TPU",
+    "version": "2.3.2.60"
+}
