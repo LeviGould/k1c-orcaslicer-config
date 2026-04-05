@@ -8,7 +8,8 @@ snapshots/
 *.tmp
 *~
 
-# Ignore downloads and network caches
+# Ignore downloads, network caches, and system defaults
 network/
 downloads/
 plugins/
+system/
