@@ -1,5 +1,5 @@
 {
-    "bed_custom_texture": "D:\\\\Downloads\\\\blue.png",
+    "bed_custom_texture": "blue.png",
     "from": "User",
     "inherits": "Creality K1C 0.4 nozzle",
     "name": "K1C",
