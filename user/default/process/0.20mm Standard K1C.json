@@ -2,7 +2,7 @@
     "accel_to_decel_enable": "0",
     "bottom_shell_layers": "4",
     "enable_support": "1",
-    "from": "Levi",
+    "from": "User",
     "gap_infill_speed": "250",
     "inherits": "0.20mm Standard @Creality K1C",
     "initial_layer_acceleration": "5000",
