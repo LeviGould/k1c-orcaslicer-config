@@ -1,0 +1,21 @@
+{
+    "bed_custom_texture": "D:\\\\Downloads\\\\blue.png",
+    "from": "User",
+    "inherits": "Creality K1C 0.4 nozzle",
+    "name": "K1C",
+    "print_host": "192.168.2.206",
+    "printable_area": [
+        "0x0",
+        "225x0",
+        "225x225",
+        "0x225"
+    ],
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "printer_settings_id": "K1C",
+    "version": "2.3.2.60"
+}

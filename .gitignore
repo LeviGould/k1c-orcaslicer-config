@@ -1,0 +1,14 @@
+# Ignore cache and temporary files
+cache/
+tmp/
+log/
+lock/
+snapshots/
+*.bak
+*.tmp
+*~
+
+# Ignore downloads and network caches
+network/
+downloads/
+plugins/
