@@ -1,14 +1,14 @@
 {
     "bed_custom_texture": "D:\\\\AppDataRoaming\\\\OrcaSlicer\\\\user\\\\default\\\\machine\\\\blue.png",
-    "from": "Levi",
+    "from": "User",
     "inherits": "Creality K1C 0.4 nozzle",
     "name": "K1C",
     "print_host": "192.168.2.206",
     "printable_area": [
         "0x0",
-        "225x0",
-        "225x225",
-        "0x225"
+        "229x0",
+        "229x220",
+        "0x220"
     ],
     "printer_extruder_id": [
         "1"
