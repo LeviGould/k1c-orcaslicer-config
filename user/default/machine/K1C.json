@@ -6,9 +6,9 @@
     "print_host": "192.168.2.206",
     "printable_area": [
         "0x0",
-        "229x0",
-        "229x220",
-        "0x220"
+        "234x0",
+        "234x226",
+        "0x226"
     ],
     "printer_extruder_id": [
         "1"
