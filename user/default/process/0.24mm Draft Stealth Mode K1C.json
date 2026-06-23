@@ -25,6 +25,8 @@
         "Direct Drive Standard"
     ],
     "print_settings_id": "0.24mm Draft Stealth Mode K1C",
+    "scarf_seam_type": "contour",
+    "seam_position": "aligned",
     "small_perimeter_threshold": "25",
     "sparse_infill_speed": "150",
     "support_interface_speed": "75",
